@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+/* 回答はここに書いてね */
+.main-box {
+    background-color: #ecf1f2;
+    padding: 20px;
+    width: 100%;
+}
+
+.box12 {
+}
+
+.box12-1 {
+    width: 100%;
+}
+
+.box12-2 {
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.box6 {
+    margin: 20px -10px 0;
+    font-size: 0;
+}
+
+.box6-1 {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 0 10px;
+    width: 50%;
+}
+
+.box6-2 {
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.box4 {
+    font-size: 0;
+    margin: 20px -10px 0;
+}
+
+.box4-1 {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 0 10px;
+    width: 33.3333%;
+}
+
+.box4-2 {
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.box3 {
+    font-size: 0;
+    margin: 20px -10px 0;
+}
+
+.box3-1 {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 0 10px;
+    width: 25%;
+}
+
+.box3-2 {
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.box24 {
+    font-size: 0;
+    margin: 20px -10px 0;
+}
+
+.box24-1 {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 0 10px;
+    width: 20%;
+}
+
+.box24-2 {
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.box2 {
+    font-size: 0;
+    margin: 20px -10px 0;
+}
+
+.box2-1 {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 0 10px;
+    width: 16.66666666666666%;
+}
+
+.box2-2 {
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.box63 {
+    font-size: 0;
+    margin: 20px -10px 0;
+}
+
+.box2244 {
+    font-size: 0;
+    margin: 20px -10px 0;
+}
+/* 回答はここに書いてね */
