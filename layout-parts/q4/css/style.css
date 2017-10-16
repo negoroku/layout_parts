@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-.inner-box {
+.main-box {
     height: 500px;
     width: 500px;
     background-color: #ECF1F2;
@@ -9,12 +9,7 @@
     margin: 0 auto;
 }
 
-.inner-box div {
-    height: 100px;
-    width: 100px;
-}
-
-.no1 {
+.box1 {
     background-color: #ffefd3;
     position: absolute;
     z-index: 1;    
@@ -22,7 +17,7 @@
     left: 200px;
 }
 
-.no2 {
+.box2 {
     background-color: #7084de;
     position: absolute;
     z-index: 2;    
@@ -30,7 +25,7 @@
     left: 280px;
 }
 
-.no3 {
+.box3 {
     background-color: #d0ecea;
     position: absolute;
     z-index: 3;    
@@ -38,7 +33,7 @@
     left: 360px;
 }
 
-.no4 {
+.box4 {
     background-color: #8b7a5e;
     position: absolute;
     z-index: 4;    
@@ -46,7 +41,7 @@
     left: 280px;
 }
 
-.no5 {
+.box5 {
     background-color: #9fd6d2;
     position: absolute;
     z-index: 5;    
@@ -54,7 +49,7 @@
     left: 200px;
 }
 
-.no6 {
+.box6 {
     background-color: #fffee4;
     position: absolute;
     z-index: 6;    
@@ -62,7 +57,7 @@
     left: 120px;
 }
 
-.no7 {
+.box7 {
     background-color: #deae70;
     z-index: 1;
     position: absolute;
@@ -71,7 +66,7 @@
     left: 40px;
 }
 
-.no8 {
+.box8 {
     background-color: #de70cf;
     position: absolute;
     z-index: 8;    
@@ -79,7 +74,7 @@
     left: 120px;
 }
 
-.no8::after {
+.box8::after {
     height: 20px;
     width: 20px;
     content: "";
@@ -90,14 +85,16 @@
     background-color: #ffefd3;    
 }
 
-.no9 {
+.box9 {
     background-color: #2b69a3;
     position: fixed;
     top: 10px;
     left: 10px;
 }
 
-.all {
+.box-layout {
+    height: 100px;
+    width: 100px;
     text-align: center;
     line-height: 100px;
 }

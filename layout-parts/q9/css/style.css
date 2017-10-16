@@ -49,7 +49,7 @@
     box-sizing: border-box;
     display: inline-block;
     padding: 0 10px;
-    width: 33.3333%;
+    width: 33.333%;
 }
 
 .box4-2 {
@@ -78,19 +78,19 @@
     text-align: center;
 }
 
-.box24 {
+.box2and4 {
     font-size: 0;
     margin: 20px -10px 0;
 }
 
-.box24-1 {
+.box2and4-1 {
     box-sizing: border-box;
     display: inline-block;
     padding: 0 10px;
     width: 20%;
 }
 
-.box24-2 {
+.box2and4-2 {
     background-color: #fff;
     font-size: 16px;
     line-height: 50px;
@@ -106,7 +106,7 @@
     box-sizing: border-box;
     display: inline-block;
     padding: 0 10px;
-    width: 16.66666666666666%;
+    width: 16.666%;
 }
 
 .box2-2 {
@@ -116,12 +116,12 @@
     text-align: center;
 }
 
-.box63 {
+.box6and3 {
     font-size: 0;
     margin: 20px -10px 0;
 }
 
-.box2244 {
+.box2and4 {
     font-size: 0;
     margin: 20px -10px 0;
 }

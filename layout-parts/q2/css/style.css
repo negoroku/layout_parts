@@ -7,9 +7,10 @@
     padding: 20px;
     font-size: 18px;
     background-color: #eff3f4;
+    word-break: break-all;
 }
 
-.clearfix {
+.clearfix::after {
     content: "";
     display: block;
     clear: both;
